@@ -1,4 +1,4 @@
-# `homebrew-mlcb`
+[![MLCB Logo](MLCB.png "MLCB")](https://www.bsse.ethz.ch/mlcb)
 
 This is the [Homebrew](https://brew.sh) tap repository of the [Machine Learning and Computational Biology
 Lab](https://www.bsse.ethz.ch/mlcb), led by [Prof. Karsten Borgwardt](https://www.bsse.ethz.ch/mlcb/karsten.html).
