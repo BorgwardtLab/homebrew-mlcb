@@ -1,4 +1,4 @@
-class S3M < Formula
+class S3m < Formula
   desc "S3M: Statistically Significant Shapelet Mining"
   homepage "https://github.com/BorgwardtLab/S3M"
   version "master"
