@@ -6,8 +6,6 @@ class S3m < Formula
   depends_on "cmake" => :build
   depends_on "boost" => :build
 
-  needs :cxx11
-
   def install
     args = std_cmake_args
 
