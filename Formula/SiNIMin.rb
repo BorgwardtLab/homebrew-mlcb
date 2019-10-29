@@ -4,6 +4,7 @@ class Sinimin < Formula
   version "master"
   url "https://github.com/BorgwardtLab/SiNIMin/archive/master.zip"
   depends_on "cmake" => :build
+  depends_on "eigen" => :build
   depends_on "gcc" => :build
 
   fails_with :clang do
