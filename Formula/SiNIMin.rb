@@ -14,7 +14,7 @@ class Sinimin < Formula
   def install
     args = std_cmake_args
 
-    system "cmake", "code/cpp", *args
+    system "cmake", "SiNIMin/C", *args
     system "make", "install"
   end
 
