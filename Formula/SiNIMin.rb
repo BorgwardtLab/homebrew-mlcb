@@ -15,7 +15,7 @@ class Sinimin < Formula
     args = std_cmake_args
 
     system "cmake", "SiNIMin/C", *args
-    system "CC=g++-9 make", "install"
+    system "make", "install"
   end
 
   test do
