@@ -1,8 +1,8 @@
 class Dipha < Formula
-  desc "DIPHA: A Distributed Persistent Homology Algorithm"
-  homepage "https://github.com/DIPHA/dipha"
+  desc "DIPHA: A Distributed Persistent Homology Algorithm (BorgwardtLab fork)"
+  homepage "https://github.com/BorgwardtLab/dipha"
   version "master"
-  url "https://github.com/DIPHA/dipha/archive/master.zip"
+  url "https://github.com/BorgwardtLab/dipha/archive/master.zip"
   depends_on "cmake" => :build
   depends_on "open-mpi" => :build
 
