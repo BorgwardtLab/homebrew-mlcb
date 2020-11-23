@@ -3,7 +3,6 @@ class Ripser < Formula
   homepage "https://github.com/Ripser/ripser"
   version "master"
   url "https://github.com/Ripser/ripser/archive/master.zip"
-  depends_on "clang" => :build
 
   def install
     system "make"
