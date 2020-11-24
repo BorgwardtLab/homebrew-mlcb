@@ -2,7 +2,7 @@ class Ripser < Formula
   desc "Ripser is a lean C++ code for the computation of Vietoris–Rips persistence barcodes. It can do just this one thing, but does it extremely well."
   homepage "https://github.com/Ripser/ripser"
   version "master"
-  url "https://github.com/Ripser/ripser/archive/master.zip"
+  url "https://github.com/BorgwardtLab/ripser/archive/master.zip"
 
   def install
     system "make"
