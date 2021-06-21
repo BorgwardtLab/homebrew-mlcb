@@ -17,5 +17,12 @@ subsequently in order to install individual packages.
 
 # Packages
 
-- [S3M](https://github.com/BorgwardtLab/S3M): A package for
-  statistically significant shapelet mining
+- [DIPHA](https://github.com/BorgwardtLab/dipha): A distributed persistent homology algorithm
+
+- [Ripser](https://github.com/Ripser/ripser): A lean C++ code for the computation of Vietoris–Rips persistence barcodes
+
+- [Rivet](https://github.com/rivetTDA/rivet): A tool for Topological Data Analysis, in particular two-parameter persistent homology
+
+- [S3M](https://github.com/BorgwardtLab/S3M): A package for statistically significant shapelet mining
+
+- [SiNIMin](https://github.com/BorgwardtLab/SiNIMin): A package for significant network interval mining
